@@ -1,5 +1,0 @@
-# this is a example file
-
-
-it contains an example 
-problrm and solution
